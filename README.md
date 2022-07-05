@@ -1,7 +1,7 @@
 # Kodluyoruzilksite
 
 
-** <html lang="tr">
+<html lang="tr">
     <head>
         <title>Azem Şahin</title>
     </head>
